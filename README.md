@@ -1,21 +1,17 @@
-# vue_addname
+# Vue2.0_to_do_list addName
 
-> demo
+> 根据慕课网Vue入门视频，加上了自己的详细注释，希望能帮到你，有问题请留言。
+> 只需要关注src文件下的App.vue即可，所有功能均在此文件内实现，
+> 另外通过localstorage.js实现了本地储存，具体请搜索html5的localstorage相关知识，感谢视频作者和慕课网的无私分享。
+## 怎么使用 
 
-## Build Setup
-
-``` bash
-# install dependencies
+``` 命令
+# 安装依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行项目（浏览器自行打开页面，修改代码自动刷新）
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
